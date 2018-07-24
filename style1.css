@@ -1,1 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+<style type>
+body{
+	font-family:"Microsoft Yahei";
+	}
+h1{
+	font-size:54px;
+	font-weight:700;
+	}
+p{
+	font-size:24px;
+	font-weight:normal;
+	}
+.duan{ line-height:24px;}
+.ban{line-height:40px;}
+.main{
+	font-size:40px;
+	font-weight:bold;
+	line-height:48px；
+	}		
 
+div{
+	line-height:36px;}
+.bas,.inf,.des,.edu,.wor{
+	font-size:24px;
+	}
+</style>
